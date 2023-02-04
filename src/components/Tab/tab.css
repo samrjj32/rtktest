@@ -1,0 +1,14 @@
+.tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  margin-right: 10px;
+  cursor: pointer;
+  color: grey;
+}
+.active {
+  color: #fff;
+}
